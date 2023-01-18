@@ -1,0 +1,32 @@
+body {
+    font-size: 15pt;
+}
+#p {
+  font-family: bradley hand, cursive;
+  font-size: 37pt;
+  background-color: transparent;
+  padding-top: 15pc;
+}
+#p1 {
+background-color: #396BFD;
+}
+#btn {
+  background:  #396BFD;
+  width: 15cm;
+  color: white;
+  border-radius: 5pt;
+  border: none;
+  height: 35pt;
+  margin-top: 12pt;
+}
+#username {
+  width: 15cm;
+  height: 25pt;
+  margin-bottom: 12pt;
+  border-radius: 3pt;
+}
+#password {
+  width: 15cm;
+  height: 25pt;
+  border-radius: 3pt;
+}
